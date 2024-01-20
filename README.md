@@ -6,4 +6,4 @@ Some of Custom Tracks in this repo will have a information attached to it, expla
 Here you can find official versions of the tracks, not these who were uploaded by mistake to Wiiki, example being GBA Ribbon Road.
 
 # Note!
-Under no circumstances are you allowed to edit, update, port or take assets from any of my works without a proper permission, including the time after leaving the community or other potential causes of abscence, eg. death. Do not reupload any of my works to different services/servers/pages, even with a credit.
+Under no circumstances are you allowed to edit, update, port or take assets from any of my works without a proper permission, including the time after leaving the community or other potential causes of abscence, eg. death (in which case this repo will be deleted). Do not reupload any of my works to different services/servers/pages, even with a credit.
